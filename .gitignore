@@ -1,0 +1,11 @@
+*.class
+*.project
+bin/**
+tmo/**/*
+*.tmp
+*.bak
+*.swp
+local.properties
+.classpath
+.settings/
+/.metadata/
